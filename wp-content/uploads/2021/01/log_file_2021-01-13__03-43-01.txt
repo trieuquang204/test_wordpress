@@ -1,0 +1,64 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/all_projects/theme1
+Data file = C:\xampp\htdocs\all_projects\theme1/wp-content/themes/brookside/framework/demos/maindemo/demo.xml
+Widget file = C:\xampp\htdocs\all_projects\theme1/wp-content/themes/brookside/framework/demos/maindemo/widgets.wie
+Customizer file = C:\xampp\htdocs\all_projects\theme1/wp-content/themes/brookside/framework/demos/maindemo/customizer.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Widgets : 
+
+brookside-AboutMe - About Me - Widget already exists
+brookside-Subscribe - No Title - Widget already exists
+brookside-Recent Posts - Recent posts - Widget already exists
+brookside-BannerSpot - Ads Banner - Widget already exists
+brookside-Instagram - Instagram - Widget already exists
+Categories - No Title - Widget already exists
+
+Footer Widgets : 
+
+brookside-Page link - About Me - Widget already exists
+brookside-Page link - Lifestyle - Widget already exists
+brookside-Page link - Contact - Widget already exists
+
+wpmm : Sidebar does not exist in theme (moving widget to Inactive)
+
+brookside-Mega Menu Posts - No Title - Widget already exists
+Text - No Title - Widget already exists
+brookside-Mega Menu Posts - No Title - Widget already exists
+brookside-Mega Menu Posts - No Title - Widget already exists
+
+AboutMe : 
+
+brookside-Subscribe - No Title - Imported
+brookside-Recent Posts - Recent posts - Imported
+brookside-BannerSpot - No Title - Imported
+
+ContactMe : 
+
+brookside-AboutMe - About Me - Imported
+brookside-BannerSpot - No Title - Imported
+brookside-Instagram - Instagram Widget - Imported
+
+SideImagePost : 
+
+brookside-AboutMe - About Me - Imported
+brookside-Subscribe - No Title - Imported
+brookside-Recent Posts - Recent posts - Imported
+brookside-BannerSpot - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

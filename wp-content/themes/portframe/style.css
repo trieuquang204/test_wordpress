@@ -1,0 +1,203 @@
+/*
+ Theme Name:   PortFrame
+ Theme URI:    https://wpoperation.com/themes/portframe
+ Description: PortFrame is child theme of Arrival. This theme is great showcase your personal portfolio, informations, skills in style and modern way.
+ Author:       WPoperation
+ Author URI:   http://wpoperation.com/
+ Template:     arrival
+ Version:      1.0.1
+ License:      GNU General Public License v3 or later
+ License URI:   http://www.gnu.org/licenses/gpl-3.0.html
+ Tags: two-columns, right-sidebar, custom-menu, custom-background, editor-style, translation-ready, full-width-template, flexible-header, sticky-post, theme-options, one-column, e-commerce, blog, photography, threaded-comments, custom-colors 
+ Text Domain:  portframe 
+ Requires at least: 4.7
+ Requires PHP: 5.6
+ Tested up to: 5.6
+ 
+
+PortFrame is a WordPress Theme, 
+Copyright (C) 2020, WPoperation
+PortFrame is distributed under the terms of the GNU GPL
+
+This program is free software, you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
+http://www.gnu.org/licenses/gpl-3.0.txt
+
+
+*/
+
+
+.site-header{
+	padding-bottom: 0;
+}
+body {
+	background: #fff;
+}
+
+body, button, input, select, optgroup, textarea,.main-navigation,.site-title,.site-footer,.site-description,.site-main .comment-navigation,
+.site-main .posts-navigation,
+.site-main .post-navigation,.rssSummary{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Playfair Display', serif;
+}
+
+.main-navigation ul li > a, .site-description, .header-last-item .search-wrap i, header .header-last-item .cart-wrapper a{
+	color: #022144;
+	font-size: 15px;
+	font-weight: 500;
+}
+
+.me-heading h2.elementor-heading-title:before {
+    content: "";
+    width: 100px;
+    height: 2px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #fec110;
+}
+
+.me-heading h2.elementor-heading-title:after {
+    content: "";
+    width: 60px;
+    height: 2px;
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #fec110;
+}
+
+input.wpcf7-form-control:not(.wpcf7-submit), textarea.wpcf7-form-control.wpcf7-textarea{
+	text-align: left;
+}
+
+/* refinements */
+.header-last-item {
+    margin-left: 25px;
+}
+.site-footer{
+    font-size:14px;
+}
+.site-footer .ftr-widget.footer-2 {
+    padding: 0 20px 0 0;
+}
+.acf7-first-wrapp p {
+    float: left;
+    width: 50%;
+}
+input.wpcf7-form-control:not(.wpcf7-submit), textarea.wpcf7-form-control.wpcf7-textarea {
+    max-width: 100%;
+}
+.acf7-first-wrapp p {
+    display: inline-block;
+    width: 45%;
+    margin-right: 2%;
+}
+textarea.wpcf7-form-control.wpcf7-textarea {
+    height: 100px;
+}
+.site-footer p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px !important;
+}
+.home ul.social li a svg {
+    fill: #fff;
+}
+
+header .arrival-custom-element {
+    text-align: right;
+}
+
+/* footer additional */
+
+.site-footer .footer-btm {
+    display: block;
+}
+.site-footer .footer-additionals-wrapp {
+   display: -ms-grid;
+     display: grid;
+    -ms-grid-columns: auto auto auto;
+    grid-template-columns: auto auto auto;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-bottom: 45px;
+}
+.site-footer .footer-title-txt h3 {
+    font-size: 52px;
+    font-weight: 500;
+    margin: 0;
+    text-align: center;
+    color: #fff;
+}
+.site-footer .ftr-btn {
+    text-align: right;
+}
+.site-footer .ftr-btn a {
+    border: 1px solid #fff;
+    padding: 10px 20px;
+    color: #FFF;
+}
+.site-footer .ftr-menus ul li {
+    display: inline-block;
+}
+.site-footer .ftr-menus {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.site-footer .ftr-menus ul li a {
+    padding: 5px;
+    text-transform: uppercase;
+    color: #FFF;
+}
+.site-footer .footer-btm .social-icons-wrapp {
+    text-align: center;
+}
+.site-footer .site-info {
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 768px){
+    .site-footer .footer-additionals-wrapp{
+        display: block;
+        text-align: center;
+    }
+    .site-footer .ftr-btn{
+        text-align: center;
+    }
+    .footer-logo img{
+        display: inline-block;
+    }
+}
+
+/* additional styles */
+.pframe-span span {
+    display: block;
+    background: #FF2E63;
+    color: #fff;
+    font-size: 14px;
+    vertical-align: middle;
+    display: inline-block;
+    padding: 5px 10px;
+}
+figure.gallery-item {
+    position: relative;
+}
+.pf-portfolio .wp-caption-text.gallery-caption {
+    position: absolute;
+    background: #333;
+    top: 50%;
+    left: 50%;
+    width: auto;
+    transform: translate(-50%, -50%);
+    padding: 5px 15px;
+    box-shadow: 1px 1px 11px 2px rgba(0,0,0,0.3);
+}

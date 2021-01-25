@@ -1,0 +1,2121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Brookside 1.0\n"
+"POT-Creation-Date: 2020-02-22 21:22+0200\n"
+"PO-Revision-Date: 2020-02-22 21:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: ArtstudioWorks\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _e;__;_x;_n;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../brookside-elements.php:132 ../brookside-elements.php:159
+#: ../brookside-elements.php:191
+msgid "Share to Facebook"
+msgstr ""
+
+#: ../brookside-elements.php:133 ../brookside-elements.php:160
+#: ../brookside-elements.php:192
+msgid "Share to Twitter"
+msgstr ""
+
+#: ../brookside-elements.php:134 ../brookside-elements.php:161
+#: ../brookside-elements.php:193
+msgid "Share to Pinterest"
+msgstr ""
+
+#: ../brookside-elements.php:135 ../brookside-elements.php:162
+#: ../brookside-elements.php:194
+msgid "Share to LinkedIn"
+msgstr ""
+
+#: ../brookside-elements.php:136 ../brookside-elements.php:163
+#: ../brookside-elements.php:195
+msgid "Share To Google+"
+msgstr ""
+
+#: ../brookside-elements.php:137 ../brookside-elements.php:164
+#: ../brookside-elements.php:196
+msgid "Share with E-Mail"
+msgstr ""
+
+#: ../brookside-elements.php:463
+msgid "View More"
+msgstr ""
+
+#: ../brookside-elements.php:477
+msgid "0 Comment"
+msgstr ""
+
+#: ../brookside-elements.php:479
+msgid "Comments"
+msgstr ""
+
+#: ../brookside-elements.php:481
+msgid "1 Comment"
+msgstr ""
+
+#: ../brookside-elements.php:485
+msgid "Comments disabled."
+msgstr ""
+
+#: ../brookside-elements.php:523
+msgid "< 1 min read"
+msgstr ""
+
+#: ../brookside-elements.php:525
+msgid "1 minute read"
+msgstr ""
+
+#: ../brookside-elements.php:527
+msgid "minutes read"
+msgstr ""
+
+#: ../brookside-elements.php:600
+msgid "Additional User Meta"
+msgstr ""
+
+#: ../brookside-elements.php:603
+msgid "A special image for each user"
+msgstr ""
+
+#: ../brookside-elements.php:610
+msgid "Upload Image"
+msgstr ""
+
+#: ../brookside-elements.php:611
+msgid "Upload an additional image for your user profile."
+msgstr ""
+
+#: ../brookside-elements.php:615
+msgid "User socials icons"
+msgstr ""
+
+#: ../brookside-elements.php:618
+msgid "Facebook:"
+msgstr ""
+
+#: ../brookside-elements.php:622
+msgid "Twitter:"
+msgstr ""
+
+#: ../brookside-elements.php:626
+msgid "Pinterest:"
+msgstr ""
+
+#: ../brookside-elements.php:630
+msgid "Instagram:"
+msgstr ""
+
+#: ../brookside-elements.php:634
+msgid "Email:"
+msgstr ""
+
+#: ../brookside-elements.php:638
+msgid "Enter your socials links to user profile. Leave blank to hide icon."
+msgstr ""
+
+#: ../brookside-elements.php:709 ../brookside-elements.php:794
+#: ../brookside-elements.php:878 ../inc/shortcodes.php:1477
+#: ../inc/vc-shortcodes.php:829 ../inc/widgets/socials.php:28
+#: ../inc/widgets/socials.php:86 ../inc/widgets/socials.php:144
+msgid "Facebook"
+msgstr ""
+
+#: ../brookside-elements.php:712 ../brookside-elements.php:797
+#: ../brookside-elements.php:881 ../inc/shortcodes.php:1472
+#: ../inc/vc-shortcodes.php:837 ../inc/widgets/socials.php:31
+#: ../inc/widgets/socials.php:89 ../inc/widgets/socials.php:147
+msgid "Twitter"
+msgstr ""
+
+#: ../brookside-elements.php:715 ../brookside-elements.php:800
+#: ../brookside-elements.php:884 ../inc/shortcodes.php:1556
+#: ../inc/vc-shortcodes.php:845 ../inc/widgets/socials.php:40
+#: ../inc/widgets/socials.php:98 ../inc/widgets/socials.php:156
+msgid "Pinterest"
+msgstr ""
+
+#: ../brookside-elements.php:718 ../brookside-elements.php:806
+#: ../brookside-elements.php:890 ../inc/shortcodes.php:1506
+#: ../inc/vc-shortcodes.php:853 ../inc/widgets/socials.php:34
+#: ../inc/widgets/socials.php:92 ../inc/widgets/socials.php:150
+msgid "Instagram"
+msgstr ""
+
+#: ../brookside-elements.php:803 ../brookside-elements.php:887
+#: ../inc/shortcodes.php:1491 ../inc/vc-shortcodes.php:925
+#: ../inc/widgets/socials.php:64 ../inc/widgets/socials.php:122
+#: ../inc/widgets/socials.php:180
+msgid "Vimeo"
+msgstr ""
+
+#: ../brookside-elements.php:809 ../brookside-elements.php:893
+#: ../inc/shortcodes.php:1531 ../inc/vc-shortcodes.php:861
+#: ../inc/widgets/socials.php:70 ../inc/widgets/socials.php:128
+#: ../inc/widgets/socials.php:186
+msgid "Tumblr"
+msgstr ""
+
+#: ../brookside-elements.php:812 ../brookside-elements.php:896
+#: ../inc/shortcodes.php:1501 ../inc/vc-shortcodes.php:909
+#: ../inc/widgets/socials.php:43 ../inc/widgets/socials.php:101
+#: ../inc/widgets/socials.php:159
+msgid "Google plus"
+msgstr ""
+
+#: ../brookside-elements.php:815 ../brookside-elements.php:899
+#: ../inc/shortcodes.php:1481 ../inc/vc-shortcodes.php:869
+#: ../inc/widgets/socials.php:46 ../inc/widgets/socials.php:104
+#: ../inc/widgets/socials.php:162
+msgid "Forrst"
+msgstr ""
+
+#: ../brookside-elements.php:818 ../brookside-elements.php:902
+#: ../inc/shortcodes.php:1526 ../inc/vc-shortcodes.php:885
+#: ../inc/widgets/socials.php:49 ../inc/widgets/socials.php:107
+#: ../inc/widgets/socials.php:165
+msgid "Dribbble"
+msgstr ""
+
+#: ../brookside-elements.php:821 ../brookside-elements.php:905
+#: ../inc/shortcodes.php:1521 ../inc/vc-shortcodes.php:877
+#: ../inc/widgets/socials.php:52 ../inc/widgets/socials.php:110
+#: ../inc/widgets/socials.php:168
+msgid "Flickr"
+msgstr ""
+
+#: ../brookside-elements.php:824 ../brookside-elements.php:908
+#: ../inc/shortcodes.php:1496 ../inc/widgets/socials.php:55
+#: ../inc/widgets/socials.php:113 ../inc/widgets/socials.php:171
+msgid "LinkedIn"
+msgstr ""
+
+#: ../brookside-elements.php:827 ../brookside-elements.php:911
+#: ../inc/shortcodes.php:1516 ../inc/vc-shortcodes.php:893
+#: ../inc/widgets/socials.php:58 ../inc/widgets/socials.php:116
+#: ../inc/widgets/socials.php:174
+msgid "Skype"
+msgstr ""
+
+#: ../brookside-elements.php:830 ../brookside-elements.php:914
+#: ../inc/shortcodes.php:1511 ../inc/vc-shortcodes.php:901
+#: ../inc/widgets/socials.php:61 ../inc/widgets/socials.php:119
+#: ../inc/widgets/socials.php:177
+msgid "Digg"
+msgstr ""
+
+#: ../brookside-elements.php:833 ../brookside-elements.php:917
+#: ../inc/shortcodes.php:1486 ../inc/vc-shortcodes.php:933
+#: ../inc/widgets/socials.php:67 ../inc/widgets/socials.php:125
+#: ../inc/widgets/socials.php:183
+msgid "Yahoo"
+msgstr ""
+
+#: ../brookside-elements.php:836 ../brookside-elements.php:920
+#: ../inc/shortcodes.php:1536 ../inc/widgets/socials.php:73
+#: ../inc/widgets/socials.php:131 ../inc/widgets/socials.php:189
+msgid "YouTube"
+msgstr ""
+
+#: ../brookside-elements.php:839 ../brookside-elements.php:923
+#: ../inc/shortcodes.php:1546 ../inc/widgets/socials.php:76
+#: ../inc/widgets/socials.php:134 ../inc/widgets/socials.php:192
+msgid "DeviantArt"
+msgstr ""
+
+#: ../brookside-elements.php:842 ../brookside-elements.php:926
+#: ../inc/shortcodes.php:1551 ../inc/vc-shortcodes.php:965
+#: ../inc/widgets/socials.php:79 ../inc/widgets/socials.php:137
+#: ../inc/widgets/socials.php:195
+msgid "Behance"
+msgstr ""
+
+#: ../brookside-elements.php:845 ../brookside-elements.php:929
+#: ../inc/shortcodes.php:1561 ../inc/vc-shortcodes.php:973
+msgid "PayPal"
+msgstr ""
+
+#: ../brookside-elements.php:848 ../brookside-elements.php:932
+#: ../inc/shortcodes.php:1566 ../inc/vc-shortcodes.php:981
+#: ../inc/widgets/socials.php:82 ../inc/widgets/socials.php:140
+#: ../inc/widgets/socials.php:198
+msgid "Delicious"
+msgstr ""
+
+#: ../brookside-elements.php:851 ../brookside-elements.php:935
+#: ../inc/shortcodes.php:1571
+msgid "RSS"
+msgstr ""
+
+#: ../brookside-elements.php:976
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:33
+#, php-format
+msgid "New Subscription on %s"
+msgstr ""
+
+#: ../brookside-elements.php:980
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:37
+#, php-format
+msgid "%s Admin"
+msgstr ""
+
+#: ../brookside-elements.php:982
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:39
+msgid "Hi ,"
+msgstr ""
+
+#: ../brookside-elements.php:983
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:40
+#, php-format
+msgid "You have a new subscription on your %s website."
+msgstr ""
+
+#: ../brookside-elements.php:984
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:41
+msgid "Email Details"
+msgstr ""
+
+#: ../brookside-elements.php:985
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:42
+msgid "-----------------"
+msgstr ""
+
+#: ../brookside-elements.php:986
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:43
+msgid "User E-mail: "
+msgstr ""
+
+#: ../brookside-elements.php:987
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:44
+msgid "Regards,"
+msgstr ""
+
+#: ../brookside-elements.php:988
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:45
+#, php-format
+msgid "Your %s Team"
+msgstr ""
+
+#: ../brookside-elements.php:993
+msgid "Your e-mail ("
+msgstr ""
+
+#: ../brookside-elements.php:998 ../brookside-elements.php:1004
+msgid "There was a problem with your e-mail ("
+msgstr ""
+
+#: ../brookside-elements.php:1012
+msgid "Your Email"
+msgstr ""
+
+#: ../brookside-elements.php:1015
+msgid "Subscribe now"
+msgstr ""
+
+#: ../brookside-elements.php:1029
+msgid "Export Subscribers"
+msgstr ""
+
+#: ../brookside-elements.php:1043
+msgid "No subscribers yet."
+msgstr ""
+
+#: ../inc/cpt-footer.php:8
+msgid "Footer"
+msgstr ""
+
+#: ../inc/cpt-header.php:8
+msgid "Header"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/contactform/contactform.php:31
+msgid ""
+"You need to insert shortcode for your form from \"Contact Form 7\" plugin or "
+"similar."
+msgstr ""
+
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:26
+msgid "Subscribe"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:49
+msgid "Your e-mail"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:49
+msgid "has been added to our mailing list!"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:52
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:55
+msgid "There was a problem with your e-mail"
+msgstr ""
+
+#: ../inc/gutenberg/blocks/subscribe/subscribe.php:73
+msgid "Email Address"
+msgstr ""
+
+#: ../inc/gutenberg/gutenberg-blocks.php:13 ../inc/vc-shortcodes.php:27
+#: ../inc/vc-shortcodes.php:337 ../inc/vc-shortcodes.php:543
+#: ../inc/vc-shortcodes.php:773 ../inc/vc-shortcodes.php:824
+#: ../inc/vc-shortcodes.php:1067 ../inc/vc-shortcodes.php:1292
+#: ../inc/vc-shortcodes.php:1356
+msgid "Brookside Elements"
+msgstr ""
+
+#: ../inc/meta-boxes.php:15
+msgid "Single Post Layout"
+msgstr ""
+
+#: ../inc/meta-boxes.php:20
+msgid "Single post layout"
+msgstr ""
+
+#: ../inc/meta-boxes.php:21
+msgid "Select layout type."
+msgstr ""
+
+#: ../inc/meta-boxes.php:25 ../inc/meta-boxes.php:40 ../inc/meta-boxes.php:59
+#: ../inc/meta-boxes.php:72 ../inc/meta-boxes.php:258
+#: ../inc/meta-boxes.php:274 ../inc/meta-boxes.php:308
+#: ../inc/vc-shortcodes.php:17
+msgid "Default"
+msgstr ""
+
+#: ../inc/meta-boxes.php:26 ../inc/vc-shortcodes.php:183
+#: ../inc/vc-shortcodes.php:512
+msgid "Standard"
+msgstr ""
+
+#: ../inc/meta-boxes.php:27
+msgid "Wide"
+msgstr ""
+
+#: ../inc/meta-boxes.php:28 ../inc/vc-shortcodes.php:182
+msgid "Fullwidth"
+msgstr ""
+
+#: ../inc/meta-boxes.php:29
+msgid "Fullscreen"
+msgstr ""
+
+#: ../inc/meta-boxes.php:30
+msgid "Side"
+msgstr ""
+
+#: ../inc/meta-boxes.php:35
+msgid "Post sidebar"
+msgstr ""
+
+#: ../inc/meta-boxes.php:36
+msgid "Select sidebar position."
+msgstr ""
+
+#: ../inc/meta-boxes.php:41
+msgid "Sidebar right"
+msgstr ""
+
+#: ../inc/meta-boxes.php:42
+msgid "Sidebar left"
+msgstr ""
+
+#: ../inc/meta-boxes.php:43
+msgid "No sidebar"
+msgstr ""
+
+#: ../inc/meta-boxes.php:48
+msgid "Featured post"
+msgstr ""
+
+#: ../inc/meta-boxes.php:49
+msgid "Check this if you need to highlight post for posts list view."
+msgstr ""
+
+#: ../inc/meta-boxes.php:56
+msgid "Post title display"
+msgstr ""
+
+#: ../inc/meta-boxes.php:60
+msgid "Above featured image/gallery"
+msgstr ""
+
+#: ../inc/meta-boxes.php:61
+msgid "Under featured image/gallery"
+msgstr ""
+
+#: ../inc/meta-boxes.php:62
+msgid "Disable title"
+msgstr ""
+
+#: ../inc/meta-boxes.php:67
+msgid "Post format on preview"
+msgstr ""
+
+#: ../inc/meta-boxes.php:68
+msgid ""
+"Select what you need to display on preview, featured image or post format "
+"(video, gallery, audio, etc.)"
+msgstr ""
+
+#: ../inc/meta-boxes.php:73
+msgid "Show post format"
+msgstr ""
+
+#: ../inc/meta-boxes.php:74
+msgid "Show featured image"
+msgstr ""
+
+#: ../inc/meta-boxes.php:79
+msgid "Sticky sharebox"
+msgstr ""
+
+#: ../inc/meta-boxes.php:80
+msgid "Check to enable vertical sticky sharebox."
+msgstr ""
+
+#: ../inc/meta-boxes.php:89
+msgid "Post Embed"
+msgstr ""
+
+#: ../inc/meta-boxes.php:94
+msgid "Embed Url"
+msgstr ""
+
+#: ../inc/meta-boxes.php:95
+msgid ""
+"This area used for the media content. If you need to show some media embeds "
+"for \"Standard\" post format instead featured image, use this field. It "
+"supports "
+msgstr ""
+
+#: ../inc/meta-boxes.php:95 ../inc/meta-boxes.php:165
+msgid "many media websites"
+msgstr ""
+
+#: ../inc/meta-boxes.php:100
+msgid "Display on single post?"
+msgstr ""
+
+#: ../inc/meta-boxes.php:101
+msgid ""
+"Check this if you need to display embed media on single post view. Featured "
+"image will be disabled."
+msgstr ""
+
+#: ../inc/meta-boxes.php:110
+msgid "Post Gallery"
+msgstr ""
+
+#: ../inc/meta-boxes.php:115
+msgid "Post Gallery Images"
+msgstr ""
+
+#: ../inc/meta-boxes.php:116
+msgid ""
+"Upload up to 30 project images for a slideshow - or only one to display a "
+"single image."
+msgstr ""
+
+#: ../inc/meta-boxes.php:122
+msgid "Gallery layout"
+msgstr ""
+
+#: ../inc/meta-boxes.php:123
+msgid "Select gallery layout type."
+msgstr ""
+
+#: ../inc/meta-boxes.php:127
+msgid "Slideshow"
+msgstr ""
+
+#: ../inc/meta-boxes.php:128
+msgid "Gallery"
+msgstr ""
+
+#: ../inc/meta-boxes.php:129
+msgid "Gallery collage"
+msgstr ""
+
+#: ../inc/meta-boxes.php:134
+msgid "Auto slideshow"
+msgstr ""
+
+#: ../inc/meta-boxes.php:135
+msgid "Check this if you need to have slideshow in your gallery."
+msgstr ""
+
+#: ../inc/meta-boxes.php:141
+msgid "Auto height"
+msgstr ""
+
+#: ../inc/meta-boxes.php:142
+msgid "Check this if you need to resize slider height regarding to image size."
+msgstr ""
+
+#: ../inc/meta-boxes.php:148 ../inc/widgets/sliderposts.php:222
+msgid "Loop items"
+msgstr ""
+
+#: ../inc/meta-boxes.php:149
+msgid "Check this if you need to have loop in your gallery."
+msgstr ""
+
+#: ../inc/meta-boxes.php:159
+msgid "Post Video"
+msgstr ""
+
+#: ../inc/meta-boxes.php:164
+msgid "Video URL"
+msgstr ""
+
+#: ../inc/meta-boxes.php:165
+msgid ""
+"This area used for video post format. This field offers live preview the "
+"media content. It supports self-hosted video and video from "
+msgstr ""
+
+#: ../inc/meta-boxes.php:173
+msgid "Post audio"
+msgstr ""
+
+#: ../inc/meta-boxes.php:178
+msgid "Audio"
+msgstr ""
+
+#: ../inc/meta-boxes.php:179
+msgid ""
+"This area used for audio post format. You can use self-hosted audio (mp3, "
+"m4a, ogg, wav, wma) or from link to soundcloud, mixcloud, reverbnation, "
+"spotify item."
+msgstr ""
+
+#: ../inc/meta-boxes.php:188
+msgid "Post Quote"
+msgstr ""
+
+#: ../inc/meta-boxes.php:193
+msgid "Quote text"
+msgstr ""
+
+#: ../inc/meta-boxes.php:198
+msgid "Quote author"
+msgstr ""
+
+#: ../inc/meta-boxes.php:203
+msgid "Background color"
+msgstr ""
+
+#: ../inc/meta-boxes.php:204 ../inc/meta-boxes.php:210
+#: ../inc/meta-boxes.php:324
+msgid "Leave empty to use default theme colors."
+msgstr ""
+
+#: ../inc/meta-boxes.php:209
+msgid "Quote text color"
+msgstr ""
+
+#: ../inc/meta-boxes.php:218
+msgid "Post link"
+msgstr ""
+
+#: ../inc/meta-boxes.php:223
+msgid "Link"
+msgstr ""
+
+#: ../inc/meta-boxes.php:224
+msgid ""
+"This area used for link post format. If you need extarnal link, please input."
+msgstr ""
+
+#: ../inc/meta-boxes.php:229 ../inc/vc-shortcodes.php:83
+#: ../inc/vc-shortcodes.php:384 ../inc/vc-shortcodes.php:597
+#: ../inc/vc-shortcodes.php:1297 ../inc/widgets/recentposts.php:128
+#: ../inc/widgets/recentposts.php:215 ../inc/widgets/sliderposts.php:142
+#: ../inc/widgets/sliderposts.php:212
+msgid "Title"
+msgstr ""
+
+#: ../inc/meta-boxes.php:230
+msgid "Input title for your external link."
+msgstr ""
+
+#: ../inc/meta-boxes.php:239
+msgid "None"
+msgstr ""
+
+#: ../inc/meta-boxes.php:248
+msgid "Page settings"
+msgstr ""
+
+#: ../inc/meta-boxes.php:253
+msgid "Header layout"
+msgstr ""
+
+#: ../inc/meta-boxes.php:254
+msgid "Select header layout. Default is layout from theme options."
+msgstr ""
+
+#: ../inc/meta-boxes.php:259
+msgid "Simple header"
+msgstr ""
+
+#: ../inc/meta-boxes.php:260
+msgid "Side header"
+msgstr ""
+
+#: ../inc/meta-boxes.php:261
+msgid "Horizontal header"
+msgstr ""
+
+#: ../inc/meta-boxes.php:262
+msgid "Header center logo"
+msgstr ""
+
+#: ../inc/meta-boxes.php:263
+msgid "Header with hidden menu"
+msgstr ""
+
+#: ../inc/meta-boxes.php:264
+msgid "Header menu top"
+msgstr ""
+
+#: ../inc/meta-boxes.php:269
+msgid "Header style"
+msgstr ""
+
+#: ../inc/meta-boxes.php:270
+msgid "Select header style. Default is style from theme options."
+msgstr ""
+
+#: ../inc/meta-boxes.php:275
+msgid "Header light"
+msgstr ""
+
+#: ../inc/meta-boxes.php:276
+msgid "Header dark"
+msgstr ""
+
+#: ../inc/meta-boxes.php:277
+msgid "Header light transparent"
+msgstr ""
+
+#: ../inc/meta-boxes.php:278
+msgid "Header dark transparent"
+msgstr ""
+
+#: ../inc/meta-boxes.php:283
+msgid "Header background"
+msgstr ""
+
+#: ../inc/meta-boxes.php:284
+msgid "Setup background parameters if you need custom header on this page."
+msgstr ""
+
+#: ../inc/meta-boxes.php:290
+msgid "Header bottom line"
+msgstr ""
+
+#: ../inc/meta-boxes.php:291
+msgid "Check this if you need to disable border line."
+msgstr ""
+
+#: ../inc/meta-boxes.php:297
+msgid "Body background"
+msgstr ""
+
+#: ../inc/meta-boxes.php:298
+msgid ""
+"Setup background parameters if you need custom background color on page."
+msgstr ""
+
+#: ../inc/meta-boxes.php:305
+msgid "Footer layout?"
+msgstr ""
+
+#: ../inc/meta-boxes.php:309
+msgid "Widgetized footer"
+msgstr ""
+
+#: ../inc/meta-boxes.php:310
+msgid "Simple footer"
+msgstr ""
+
+#: ../inc/meta-boxes.php:311
+msgid "Disable footer"
+msgstr ""
+
+#: ../inc/meta-boxes.php:316
+msgid "Footer background"
+msgstr ""
+
+#: ../inc/meta-boxes.php:317
+msgid ""
+"Setup background parameters if you need custom background color on this page."
+msgstr ""
+
+#: ../inc/meta-boxes.php:323
+msgid "Footer socials color"
+msgstr ""
+
+#: ../inc/meta-boxes.php:330
+msgid "Page sidebar"
+msgstr ""
+
+#: ../inc/meta-boxes.php:331
+msgid ""
+"Select your sidebar if you want to use another sidebar on this page/post."
+msgstr ""
+
+#: ../inc/meta-boxes.php:342
+msgid "Brookside Page SEO"
+msgstr ""
+
+#: ../inc/meta-boxes.php:348
+msgid "Meta Description"
+msgstr ""
+
+#: ../inc/meta-boxes.php:349
+msgid ""
+"Enter your page/post description for SEO optimization. Recommended to use "
+"120-140 characters."
+msgstr ""
+
+#: ../inc/meta-boxes.php:354
+msgid "Meta Keywords"
+msgstr ""
+
+#: ../inc/meta-boxes.php:355
+msgid ""
+"Enter your page/post keywords for SEO optimization. Divide keywords by "
+"commas."
+msgstr ""
+
+#: ../inc/meta-boxes.php:364
+msgid "Page title"
+msgstr ""
+
+#: ../inc/meta-boxes.php:370
+msgid "Hide title"
+msgstr ""
+
+#: ../inc/meta-boxes.php:371
+msgid "Check this to hide page title."
+msgstr ""
+
+#: ../inc/meta-boxes.php:377
+msgid "Title position"
+msgstr ""
+
+#: ../inc/meta-boxes.php:381 ../inc/vc-shortcodes.php:454
+#: ../inc/vc-shortcodes.php:1055
+msgid "Left"
+msgstr ""
+
+#: ../inc/meta-boxes.php:382 ../inc/vc-shortcodes.php:455
+#: ../inc/vc-shortcodes.php:1053
+msgid "Center"
+msgstr ""
+
+#: ../inc/meta-boxes.php:383 ../inc/vc-shortcodes.php:456
+#: ../inc/vc-shortcodes.php:1054
+msgid "Right"
+msgstr ""
+
+#: ../inc/meta-boxes.php:394
+msgid "Page hero section"
+msgstr ""
+
+#: ../inc/meta-boxes.php:400
+msgid "Hero section"
+msgstr ""
+
+#: ../inc/meta-boxes.php:404 ../inc/vc-shortcodes.php:37
+#: ../inc/vc-shortcodes.php:48 ../inc/vc-shortcodes.php:513
+msgid "Disable"
+msgstr ""
+
+#: ../inc/meta-boxes.php:405 ../inc/meta-boxes.php:424
+msgid "Slider"
+msgstr ""
+
+#: ../inc/meta-boxes.php:410
+msgid "Section padding"
+msgstr ""
+
+#: ../inc/meta-boxes.php:411
+msgid "Do not set \"px\"."
+msgstr ""
+
+#: ../inc/meta-boxes.php:415
+msgid "top"
+msgstr ""
+
+#: ../inc/meta-boxes.php:416
+msgid "right"
+msgstr ""
+
+#: ../inc/meta-boxes.php:417
+msgid "bottom"
+msgstr ""
+
+#: ../inc/meta-boxes.php:418
+msgid "left"
+msgstr ""
+
+#: ../inc/meta-boxes.php:425
+msgid "Use options below if you select \"Slider\" hero section"
+msgstr ""
+
+#: ../inc/meta-boxes.php:428
+msgid "Select posts to show"
+msgstr ""
+
+#: ../inc/meta-boxes.php:435
+msgid "Select posts"
+msgstr ""
+
+#: ../inc/meta-boxes.php:443
+msgid "Posts count"
+msgstr ""
+
+#: ../inc/meta-boxes.php:444
+msgid "Select posts count to display posts"
+msgstr ""
+
+#: ../inc/meta-boxes.php:452
+msgid "Slider style"
+msgstr ""
+
+#: ../inc/meta-boxes.php:456 ../inc/vc-shortcodes.php:114
+msgid "Centered"
+msgstr ""
+
+#: ../inc/meta-boxes.php:457 ../inc/vc-shortcodes.php:116
+#: ../inc/vc-shortcodes.php:407 ../inc/vc-shortcodes.php:1000
+msgid "Simple"
+msgstr ""
+
+#: ../inc/meta-boxes.php:458 ../inc/vc-shortcodes.php:1324
+msgid "Three per row"
+msgstr ""
+
+#: ../inc/meta-boxes.php:463
+msgid "Slider height"
+msgstr ""
+
+#: ../inc/meta-boxes.php:464
+msgid "Enter slider height in (px)"
+msgstr ""
+
+#: ../inc/meta-boxes.php:469 ../inc/vc-shortcodes.php:103
+msgid "Image size"
+msgstr ""
+
+#: ../inc/meta-boxes.php:476
+msgid "Slider slideshow"
+msgstr ""
+
+#: ../inc/meta-boxes.php:480 ../inc/meta-boxes.php:490
+#: ../inc/vc-shortcodes.php:465 ../inc/vc-shortcodes.php:473
+#: ../inc/vc-shortcodes.php:481 ../inc/vc-shortcodes.php:489
+#: ../inc/vc-shortcodes.php:496 ../inc/vc-shortcodes.php:503
+#: ../inc/vc-shortcodes.php:522 ../inc/vc-shortcodes.php:530
+#: ../inc/vc-shortcodes.php:795 ../inc/widgets/twitter.php:218
+msgid "Yes"
+msgstr ""
+
+#: ../inc/meta-boxes.php:481 ../inc/meta-boxes.php:491
+#: ../inc/vc-shortcodes.php:465 ../inc/vc-shortcodes.php:473
+#: ../inc/vc-shortcodes.php:481 ../inc/vc-shortcodes.php:489
+#: ../inc/vc-shortcodes.php:496 ../inc/vc-shortcodes.php:503
+#: ../inc/vc-shortcodes.php:522 ../inc/vc-shortcodes.php:530
+#: ../inc/vc-shortcodes.php:795 ../inc/widgets/twitter.php:219
+msgid "No"
+msgstr ""
+
+#: ../inc/meta-boxes.php:486
+msgid "Slider loop"
+msgstr ""
+
+#: ../inc/post-like/post-like-core.php:55
+msgid "already"
+msgstr ""
+
+#: ../inc/post-like/post-like-core.php:100
+msgid "Already liked"
+msgstr ""
+
+#: ../inc/post-like/post-like-core.php:102
+msgid "I like this"
+msgstr ""
+
+#: ../inc/post-like/post-like-core.php:106
+#: ../inc/post-like/post-like-core.php:124
+msgid "Likes"
+msgstr ""
+
+#: ../inc/post-like/post-like-core.php:108
+#: ../inc/post-like/post-like-core.php:110
+#: ../inc/post-like/post-like-core.php:126
+#: ../inc/post-like/post-like-core.php:128
+msgid "Like"
+msgstr ""
+
+#: ../inc/post-view/post-view.php:9 ../inc/post-view/post-view.php:11
+msgid "View"
+msgstr ""
+
+#: ../inc/post-view/post-view.php:13
+msgid "Views"
+msgstr ""
+
+#: ../inc/shortcodes.php:121 ../inc/shortcodes.php:139
+#: ../inc/shortcodes.php:380 ../inc/shortcodes.php:411
+#: ../inc/shortcodes.php:448 ../inc/shortcodes.php:480
+#: ../inc/shortcodes.php:512 ../inc/shortcodes.php:570
+#: ../inc/shortcodes.php:590 ../inc/shortcodes.php:623
+#: ../inc/shortcodes.php:772 ../inc/shortcodes.php:889
+#: ../inc/shortcodes.php:924 ../inc/shortcodes.php:942
+#: ../inc/shortcodes.php:1049 ../inc/shortcodes.php:1171
+#: ../inc/shortcodes.php:1208 ../inc/shortcodes.php:1225
+msgid "Permalink to"
+msgstr ""
+
+#: ../inc/shortcodes.php:141 ../inc/shortcodes.php:399
+#: ../inc/shortcodes.php:598
+msgid "Read More"
+msgstr ""
+
+#: ../inc/shortcodes.php:534 ../inc/shortcodes.php:903
+#: ../inc/shortcodes.php:978
+msgid "Read more"
+msgstr ""
+
+#: ../inc/shortcodes.php:657
+msgid "Load More"
+msgstr ""
+
+#: ../inc/shortcodes.php:1284 ../inc/shortcodes.php:1286
+msgid "author photo"
+msgstr ""
+
+#: ../inc/shortcodes.php:1541 ../inc/vc-shortcodes.php:949
+msgid "Picasa"
+msgstr ""
+
+#: ../inc/shortcodes.php:1593
+msgid "Something went wrong: please, check your media url"
+msgstr ""
+
+#: ../inc/shortcodes.php:1737
+msgid "Enter your title text"
+msgstr ""
+
+#: ../inc/update.php:67
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: ../inc/update.php:72
+msgid "An unknown error occurred"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:18
+msgid "Uppercase"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:19
+msgid "Lowercase"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:20
+msgid "Capitalize"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:24
+msgid "Brookside Posts Slider"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:29
+msgid "Slider with your posts"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:33
+msgid "Autoplay"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:36 ../inc/vc-shortcodes.php:47
+msgid "Enable"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:39
+msgid "Disable or Enable Autoplay."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:44
+msgid "Loop"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:50
+msgid "If you want to have continuous slider, please select enable"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:55
+msgid "Slider count"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:59
+msgid ""
+"Enter number of slides to display (Note: Enter '-1' to display all slides)."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:63 ../inc/vc-shortcodes.php:357
+#: ../inc/vc-shortcodes.php:577
+msgid "Category slug"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:66 ../inc/vc-shortcodes.php:360
+#: ../inc/vc-shortcodes.php:580
+msgid ""
+"This help you to retrieve items from specific category. More than one "
+"separate by commas."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:70 ../inc/vc-shortcodes.php:364
+#: ../inc/vc-shortcodes.php:584
+msgid "Post IDs"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:73 ../inc/vc-shortcodes.php:367
+#: ../inc/vc-shortcodes.php:587 ../inc/widgets/sliderposts.php:153
+msgid ""
+"Enter posts IDs to display only those records (Note: separate values by "
+"commas (,))."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:77 ../inc/vc-shortcodes.php:378
+#: ../inc/vc-shortcodes.php:591 ../inc/widgets/recentposts.php:213
+#: ../inc/widgets/sliderposts.php:210
+msgid "Order by"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:80 ../inc/vc-shortcodes.php:381
+#: ../inc/vc-shortcodes.php:594 ../inc/widgets/recentposts.php:217
+#: ../inc/widgets/sliderposts.php:214
+msgid "Date"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:81 ../inc/vc-shortcodes.php:382
+#: ../inc/vc-shortcodes.php:595
+msgid "Last modified date"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:82 ../inc/vc-shortcodes.php:383
+#: ../inc/vc-shortcodes.php:596
+msgid "Popularity"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:84 ../inc/vc-shortcodes.php:385
+#: ../inc/vc-shortcodes.php:598
+msgid "Random"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:85 ../inc/vc-shortcodes.php:386
+#: ../inc/vc-shortcodes.php:599 ../inc/widgets/sliderposts.php:217
+msgid "Preserve post ID order"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:87 ../inc/vc-shortcodes.php:388
+#: ../inc/vc-shortcodes.php:601
+msgid "Select how to sort retrieved posts."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:92 ../inc/vc-shortcodes.php:393
+#: ../inc/vc-shortcodes.php:606
+msgid "Sort order"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:95 ../inc/vc-shortcodes.php:396
+#: ../inc/vc-shortcodes.php:609
+msgid "Descending"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:96 ../inc/vc-shortcodes.php:397
+#: ../inc/vc-shortcodes.php:610
+msgid "Ascending"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:98 ../inc/vc-shortcodes.php:399
+#: ../inc/vc-shortcodes.php:612
+msgid "Select ascending or descending order."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:106
+msgid "Select your image size to use in slider."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:111
+msgid "Slider Style"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:115
+msgid "Two Centered"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:117
+msgid "Two in row"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:118
+msgid "Three in row"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:124
+msgid "Description Style"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:127
+msgid "Style 1"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:128
+msgid "Style 2"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:129
+msgid "Style 3"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:130
+msgid "Style 4"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:131
+msgid "Style 5"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:137
+msgid "Navigation arrows"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:138
+msgid "Display navigation arrows."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:141 ../inc/vc-shortcodes.php:152
+#: ../inc/vc-shortcodes.php:162 ../inc/vc-shortcodes.php:172
+#: ../inc/vc-shortcodes.php:1335 ../inc/widgets/recentposts.php:241
+#: ../inc/widgets/recentposts.php:264
+msgid "Show"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:142 ../inc/vc-shortcodes.php:153
+#: ../inc/vc-shortcodes.php:163 ../inc/vc-shortcodes.php:173
+#: ../inc/vc-shortcodes.php:1335 ../inc/widgets/recentposts.php:242
+#: ../inc/widgets/recentposts.php:265
+msgid "Hide"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:148
+msgid "Overlay"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:149
+msgid ""
+"Display overlay on image. Your image with displays with some saturation."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:159
+msgid "Show meta categories?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:169
+msgid "Show date?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:179
+msgid "Slider width"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:334
+msgid "Brookside Recent Posts"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:338 ../inc/vc-shortcodes.php:544
+msgid "Show WP posts in grid."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:342 ../inc/vc-shortcodes.php:556
+msgid "Post count"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:346 ../inc/vc-shortcodes.php:559
+msgid ""
+"Enter number of posts to display (Note: Enter '-1' to display all posts)."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:350
+msgid "Load more posts count"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:353
+msgid ""
+"Enter number of posts to load (leave balnk to use the same value as per "
+"page)."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:371
+msgid "Post IDs Exclude"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:374
+msgid ""
+"Enter posts IDs to exclude those records (Note: separate values by commas "
+"(,))."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:404
+msgid "Post view style"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:408
+msgid "Featured"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:409
+msgid "Featured even/odd"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:410
+msgid "Masonry"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:411
+msgid "List"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:413
+msgid "Select posts style on preview."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:418
+msgid "Posts per row"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:421
+msgid "Two"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:422
+msgid "Three"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:423
+msgid "Four"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:424
+msgid "Five"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:425
+msgid "Six"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:427
+msgid "Select posts count per row."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:436 ../inc/vc-shortcodes.php:617
+#: ../inc/vc-shortcodes.php:785
+msgid "Thumbnail size"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:439 ../inc/vc-shortcodes.php:620
+#: ../inc/vc-shortcodes.php:788
+msgid "Select your image size to use."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:444
+msgid "Post excerpt count"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:447
+msgid "Enter number of words in post excerpt. 0 to hide it."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:451
+msgid "Align elements"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:458
+msgid "Select position for text, meta info, categories, etc."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:463
+msgid "Display categories?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:466 ../inc/vc-shortcodes.php:796
+msgid "Show categories above the title?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:471
+msgid "Display time reading?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:474
+msgid "Show estimate time to read the post?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:479
+msgid "Display comments count?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:482
+msgid "Show comments count in meta?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:487
+msgid "Display date label?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:494
+msgid "Display views?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:501
+msgid "Display likes?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:508
+msgid "Pagination"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:511
+msgid "Load more"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:515
+msgid "Select pagination for posts."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:520
+msgid "Disable featured posts style"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:523
+msgid "Disable style for featured posts. Do not highlight them."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:528
+msgid "Ignore sticky posts"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:531
+msgid "Show sticky posts?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:539
+msgid "Brookside Carousel Posts"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:548
+msgid "Posts block title"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:552
+msgid ""
+"Enter posts block title e.g. 'Latest posts'. Leave blank if you need not to "
+"display it."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:563
+msgid "Posts per view"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:566
+msgid "Two per view"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:567
+msgid "Three per view"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:568
+msgid "Four per view"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:569
+msgid "Five per view"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:570
+msgid "Six per view"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:572
+msgid "Select posts count per view."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:770
+msgid "Brookside Single Posts"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:774
+msgid ""
+"Show WP post. Just input post ID. You can find post ID in browser address "
+"bar while editing post."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:778
+msgid "Post ID"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:781
+msgid "Enter posts ID to display only those record."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:793
+msgid "Show categories?"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:821
+msgid "Brookside Socials"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:824 ../inc/vc-shortcodes.php:1292
+msgid "Brookside Footer"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:824
+msgid "Brookside Header"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:825
+msgid "Show social icons: facebook, twitter, pinterest, etc."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:833 ../inc/vc-shortcodes.php:841
+#: ../inc/vc-shortcodes.php:849 ../inc/vc-shortcodes.php:857
+#: ../inc/vc-shortcodes.php:865 ../inc/vc-shortcodes.php:873
+#: ../inc/vc-shortcodes.php:881 ../inc/vc-shortcodes.php:889
+#: ../inc/vc-shortcodes.php:897 ../inc/vc-shortcodes.php:905
+#: ../inc/vc-shortcodes.php:913 ../inc/vc-shortcodes.php:921
+#: ../inc/vc-shortcodes.php:929 ../inc/vc-shortcodes.php:937
+#: ../inc/vc-shortcodes.php:945 ../inc/vc-shortcodes.php:953
+#: ../inc/vc-shortcodes.php:961 ../inc/vc-shortcodes.php:969
+#: ../inc/vc-shortcodes.php:977 ../inc/vc-shortcodes.php:985
+msgid "Enter link to your account (profile)."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:917
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:941
+msgid "Youtube"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:957
+msgid "Deviantart"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:989
+msgid "Rss"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:993
+msgid "Enter link to rss."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:997
+msgid "Icons style"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1001
+msgid "Big Icon+Text"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1007
+msgid "Circle background color"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1010 ../inc/vc-shortcodes.php:1021
+#: ../inc/vc-shortcodes.php:1028 ../inc/vc-shortcodes.php:1035
+msgid "Leave empty to use default color."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1018
+msgid "Icon color initial"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1025
+msgid "Icon color hover"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1032
+msgid "Circle text color"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1050
+msgid "Icons align"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1064
+msgid "Brookside User Info"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1068
+msgid "Show user information."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1072
+msgid "Username"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1076
+msgid "Enter username parameter to display information."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1289
+msgid "Brookside Instagram"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1293
+msgid "Show your instagram feeds."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1301
+msgid "Enter instagram block title."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1305
+msgid "Access token"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1309 ../inc/widgets/instagram.php:183
+msgid "Get your Access Token"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1313
+msgid "Items count"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1319
+msgid "Items per row"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1322
+msgid "One per row"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1323
+msgid "Two row"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1325
+msgid "Four per row"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1326
+msgid "Six per row"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1328
+msgid "Select items count per row"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1333
+msgid "Follow link"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1336
+msgid "Show or hide follow link"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1353
+msgid "Brookside Category"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1357
+msgid "Show special block with link to category."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1361
+msgid "Category"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1364
+msgid "Select category to show."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1376
+msgid "Button label"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1379
+msgid "Enter button label, if empty label is equal to category name."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1383
+msgid "Button url"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1386
+msgid "Enter button url, if empty url is equal to category url."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1390
+msgid "Category image"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1393
+msgid "Select image for category block"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1397
+msgid "Button Border color"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1400 ../inc/vc-shortcodes.php:1407
+#: ../inc/vc-shortcodes.php:1414
+msgid "Leave empty to use default style."
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1404
+msgid "Button background color"
+msgstr ""
+
+#: ../inc/vc-shortcodes.php:1411
+msgid "Button text color"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:8
+msgid "Display informations about you"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:10
+msgid "brookside-AboutMe"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:107 ../inc/widgets/bannerspot.php:83
+#: ../inc/widgets/map.php:80 ../inc/widgets/page_link.php:78
+#: ../inc/widgets/socials.php:270 ../inc/widgets/twitter.php:194
+#: ../inc/widgets/youtube_channel.php:89
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:111
+msgid "Image:"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:115 ../inc/widgets/bannerspot.php:91
+#: ../inc/widgets/page_link.php:86 ../inc/widgets/subscribe.php:83
+#: ../inc/widgets/youtube_channel.php:97
+msgid "Upload image"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:118
+msgid "Image style"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:121
+msgid "Circle"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:122
+msgid "Square"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:142
+msgid "Show Social Links?"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:145
+msgid "Content:"
+msgstr ""
+
+#: ../inc/widgets/aboutme.php:149
+msgid "Signature:"
+msgstr ""
+
+#: ../inc/widgets/bannerspot.php:8
+msgid "Display block with banner and Title over it."
+msgstr ""
+
+#: ../inc/widgets/bannerspot.php:10
+msgid "brookside-BannerSpot"
+msgstr ""
+
+#: ../inc/widgets/bannerspot.php:87
+msgid "Banner image:"
+msgstr ""
+
+#: ../inc/widgets/bannerspot.php:94 ../inc/widgets/page_link.php:89
+#: ../inc/widgets/youtube_channel.php:100
+msgid "URL:"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:6
+msgid "Display your latest Instagram Photos"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:8
+msgid "brookside-Instagram"
+msgstr ""
+
+#: ../inc/widgets/instagram.php:188
+msgid "Input number of items, max number is 20."
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:68
+msgid "All"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:249
+msgid "Ordered By"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:273
+msgid "Select Category"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:304
+msgid "Number of Column"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:330
+msgid "Post Count"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:337
+msgid "Show Date on the Post?"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:343
+msgid "Show Navigation on the Post?"
+msgstr ""
+
+#: ../inc/widgets/latestposts.php:349
+msgid "Show Left Category on the Widget?"
+msgstr ""
+
+#: ../inc/widgets/map.php:8
+msgid "Display your location"
+msgstr ""
+
+#: ../inc/widgets/map.php:10
+msgid "brookside-Map"
+msgstr ""
+
+#: ../inc/widgets/map.php:25
+msgid "Located at:"
+msgstr ""
+
+#: ../inc/widgets/map.php:84
+msgid "Address:"
+msgstr ""
+
+#: ../inc/widgets/map.php:88
+msgid "Zoom:"
+msgstr ""
+
+#: ../inc/widgets/page_link.php:8
+msgid "Display image with link"
+msgstr ""
+
+#: ../inc/widgets/page_link.php:10
+msgid "brookside-Page link"
+msgstr ""
+
+#: ../inc/widgets/page_link.php:82
+msgid "Background Image:"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:8
+msgid "Display your posts"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:10
+msgid "brookside-Recent Posts"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:146
+msgid "Layout"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:148
+msgid "Simple list"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:149
+msgid "Thumbnail & title"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:153 ../inc/widgets/sliderposts.php:146
+msgid "Number of items to show"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:158
+msgid "How many words show?"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:179 ../inc/widgets/sliderposts.php:172
+msgid "Order"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:181 ../inc/widgets/sliderposts.php:174
+msgid "Lowest to highest values"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:182 ../inc/widgets/sliderposts.php:175
+msgid "Highest to lowest values"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:216 ../inc/widgets/sliderposts.php:213
+msgid "Post's ID"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:218 ../inc/widgets/sliderposts.php:215
+msgid "Modified date"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:219 ../inc/widgets/sliderposts.php:216
+msgid "Popular"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:239
+msgid "Show category?"
+msgstr ""
+
+#: ../inc/widgets/recentposts.php:262
+msgid "Date info"
+msgstr ""
+
+#: ../inc/widgets/sliderposts.php:8
+msgid "Display your posts as slider"
+msgstr ""
+
+#: ../inc/widgets/sliderposts.php:10
+msgid "brookside-Slider Posts"
+msgstr ""
+
+#: ../inc/widgets/sliderposts.php:151
+msgid "Posts IDs"
+msgstr ""
+
+#: ../inc/widgets/socials.php:8
+msgid "Display your Socials icons"
+msgstr ""
+
+#: ../inc/widgets/socials.php:10
+msgid "brookside-Socials"
+msgstr ""
+
+#: ../inc/widgets/socials.php:37 ../inc/widgets/socials.php:95
+#: ../inc/widgets/socials.php:153
+msgid "Bloglovin"
+msgstr ""
+
+#: ../inc/widgets/socials.php:298
+msgid "Facebook url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:302
+msgid "Twitter url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:306
+msgid "Bloglovin profile url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:310
+msgid "Pinterest url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:314
+msgid "Instagram url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:318
+msgid "Google plus url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:322
+msgid "Forrst url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:326
+msgid "Dribbble url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:330
+msgid "Flickr url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:334
+msgid "Linkedin url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:338
+msgid "Skype account:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:342
+msgid "Digg url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:346
+msgid "Vimeo url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:350
+msgid "Yahoo url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:354
+msgid "Tumblr url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:358
+msgid "Youtube url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:362
+msgid "Deviantart url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:366
+msgid "Behance url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:370
+msgid "VKontakte url:"
+msgstr ""
+
+#: ../inc/widgets/socials.php:374
+msgid "Delicious url:"
+msgstr ""
+
+#: ../inc/widgets/subscribe.php:6
+msgid "Display subscribe form"
+msgstr ""
+
+#: ../inc/widgets/subscribe.php:8
+msgid "brookside-Subscribe"
+msgstr ""
+
+#: ../inc/widgets/subscribe.php:71
+msgid "Widget Title:"
+msgstr ""
+
+#: ../inc/widgets/subscribe.php:75
+msgid "Subscribe title:"
+msgstr ""
+
+#: ../inc/widgets/subscribe.php:79
+msgid "Background image:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:36
+msgid "right now"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:38
+msgid " seconds ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:40
+msgid "about 1 minute ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:42
+msgid " minutes ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:44
+msgid "about 1 hour ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:46
+msgid " hours ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:48
+msgid "yesterday"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:50
+msgid " days ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:52
+msgid "over a year ago"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:63
+msgid "Display recent tweets"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:65
+msgid "brookside-Twitter"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:151
+msgid "Tweeted on"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:196
+msgid "Consumer Key:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:198
+msgid "Consumer Secret:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:200
+msgid "Access Token:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:202
+msgid "Access Token Secret:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:204
+msgid "Cache Tweets in every:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:206
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:208
+msgid "Tweets to display:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:216
+msgid "Display time?"
+msgstr ""
+
+#: ../inc/widgets/youtube_channel.php:8
+msgid "Display block with image and button for youtube channel."
+msgstr ""
+
+#: ../inc/widgets/youtube_channel.php:10
+msgid "brookside-YouTube Channel"
+msgstr ""
+
+#: ../inc/widgets/youtube_channel.php:93
+msgid "Youtube image:"
+msgstr ""

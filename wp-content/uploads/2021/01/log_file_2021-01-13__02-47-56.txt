@@ -1,0 +1,200 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/all_projects/theme1
+Data file = C:\xampp\htdocs\all_projects\theme1/wp-content/themes/brookside/framework/demos/maindemo/demo.xml
+Widget file = C:\xampp\htdocs\all_projects\theme1/wp-content/themes/brookside/framework/demos/maindemo/widgets.wie
+Customizer file = C:\xampp\htdocs\all_projects\theme1/wp-content/themes/brookside/framework/demos/maindemo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Widgets : 
+
+brookside-AboutMe - About Me - Imported
+brookside-Subscribe - No Title - Imported
+brookside-Recent Posts - Recent posts - Imported
+brookside-BannerSpot - Ads Banner - Imported
+brookside-Instagram - Instagram - Imported
+Categories - No Title - Imported
+
+Footer Widgets : 
+
+brookside-Page link - About Me - Imported
+brookside-Page link - Lifestyle - Imported
+brookside-Page link - Contact - Imported
+
+wpmm : Sidebar does not exist in theme (moving widget to Inactive)
+
+brookside-Mega Menu Posts - No Title - Imported to Inactive
+Text - No Title - Imported to Inactive
+brookside-Mega Menu Posts - No Title - Imported to Inactive
+brookside-Mega Menu Posts - No Title - Imported to Inactive
+
+AboutMe : Sidebar does not exist in theme (moving widget to Inactive)
+
+brookside-Subscribe - No Title - Imported to Inactive
+brookside-Recent Posts - Recent posts - Imported to Inactive
+brookside-BannerSpot - No Title - Imported to Inactive
+
+ContactMe : Sidebar does not exist in theme (moving widget to Inactive)
+
+brookside-AboutMe - About Me - Imported to Inactive
+brookside-BannerSpot - No Title - Imported to Inactive
+brookside-Instagram - Instagram Widget - Imported to Inactive
+
+SideImagePost : Sidebar does not exist in theme (moving widget to Inactive)
+
+brookside-AboutMe - About Me - Imported to Inactive
+brookside-Subscribe - No Title - Imported to Inactive
+brookside-Recent Posts - Recent posts - Imported to Inactive
+brookside-BannerSpot - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
