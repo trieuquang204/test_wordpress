@@ -78,10 +78,10 @@ class Widget_Icon_Box extends Widget_Base {
 	 *
 	 * Adds different input fields to allow the user to change and customize the widget settings.
 	 *
-	 * @since 1.0.0
+	 * @since 3.1.0
 	 * @access protected
 	 */
-	protected function _register_controls() {
+	protected function register_controls() {
 		$this->start_controls_section(
 			'section_icon',
 			[
@@ -653,9 +653,9 @@ class Widget_Icon_Box extends Widget_Base {
 			</div>
 			<?php endif; ?>
 			<div class="elementor-icon-box-content">
-				<<?php echo $settings['title_size']; ?> class="elementor-icon-box-title">
+				<<?php echo Utils::validate_html_tag( $settings['title_size'] ); ?> class="elementor-icon-box-title">
 					<<?php echo implode( ' ', [ $icon_tag, $link_attributes ] ); ?><?php echo $this->get_render_attribute_string( 'title_text' ); ?>><?php echo $settings['title_text']; ?></<?php echo $icon_tag; ?>>
-				</<?php echo $settings['title_size']; ?>>
+				</<?php echo Utils::validate_html_tag( $settings['title_size'] ); ?>>
 				<?php if ( ! Utils::is_empty( $settings['description_text'] ) ) : ?>
 				<p <?php echo $this->get_render_attribute_string( 'description_text' ); ?>><?php echo $settings['description_text']; ?></p>
 				<?php endif; ?>
